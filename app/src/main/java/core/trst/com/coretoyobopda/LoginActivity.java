@@ -37,7 +37,7 @@ public class LoginActivity extends AppCompatActivity {
     PreferenceHelper prefHelp=new PreferenceHelper();
     //Declare Helper
 
-    // UI references.
+    // UI references
     private AutoCompleteTextView mUsername;
     private EditText mPasswordView;
     private Button btnLogin;
